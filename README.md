@@ -4,7 +4,7 @@ In today’s world of automation, the skills and knowledge of a person could be 
 one can build a system that would predict and estimate whether the patient should be categorized as an incare patient or an outcare patient with the help of several data points about the patients, 
 their conditions and lab tests.
 
-Attribute information
+Attribute information 
 
 HAEMATOCRIT : Patient laboratory test result of haematocrit
 
